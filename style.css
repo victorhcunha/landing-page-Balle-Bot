@@ -19,3 +19,11 @@ body {
   justify-content: space-around;
   padding: 24px;
 }
+
+.cabecalho-imagem {
+  height: 72px;
+}
+
+.cabecalho-menu {
+  display: flex;
+}
