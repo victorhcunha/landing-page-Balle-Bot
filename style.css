@@ -35,3 +35,8 @@ body {
   font-weight: 400;
   font-size: 18px;
 }
+
+.conteudo {
+  border-top: 0.4px solid #fff2e7;
+  margin-bottom: 42px;
+}
