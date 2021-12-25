@@ -40,3 +40,10 @@ body {
   border-top: 0.4px solid #fff2e7;
   margin-bottom: 42px;
 }
+
+.conteudo-principal {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
