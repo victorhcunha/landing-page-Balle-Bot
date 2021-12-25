@@ -81,6 +81,10 @@ body {
   color: #2f2325;
 }
 
+.conteudo-principal-escrito-botao:hoover {
+  background-color: rgba(236, 214, 196, 0.53);
+}
+
 .conteudo-principal-imagem {
   height: 430px;
 }
